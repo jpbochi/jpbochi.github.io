@@ -15,7 +15,7 @@ My secondary point is that almost everything that was said against the article e
 
 ## 1. Mei's article analysis
 
-Here are some claims that she exposes at the beginning of the article, and supposedly will be demonstrated its end.
+Here are some claims that she exposes at the beginning of the article, and supposedly will be demonstrated by its end.
 
 1. Agile/XP doesn't work in heterogeneous teams.
 2. The reason behind claim #1 is because of the race and gender (ie, "white men") of Agile/XP creators.
