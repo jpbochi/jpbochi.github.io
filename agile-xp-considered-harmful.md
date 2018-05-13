@@ -21,7 +21,7 @@ Here are some claims that she exposes at the beginning of the article, which wil
 2. The reason behind claim #1 is because of the race and gender (ie, "white men") of Agile/XP creators.
 3. "The practices assume the practitioners all have A LOT of built-in privilege."
 
-Throughout the article, she cover two of the practices. First, Pairing, then TDD. Fair enough. Let's see if her argument holds water.
+Throughout the article, she covers two of the practices. First, Pairing, then TDD. Fair enough. Let's see if her argument holds water.
 
 ### On "power dynamics" and hierarchies
 
