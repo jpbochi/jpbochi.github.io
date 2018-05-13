@@ -49,7 +49,7 @@ I think the fundamental principle behind this concept is correct. Hierarchies do
 The traits she listed as influencing one's "power" can be but in two big buckets.
 
 1. _Competence_ traits: For example, a senior is usually more competent than a junior; a native speaker of the language being used will probably communicate with more competence than the non-native speaker. It's self-evident how these traits make one get higher in the hierarchy.
-2. _Superficial_* traits: The most glaring examples are race and gender. Religion, marital status, and tastes in general would also fall into this bucket. The case for "power" disparity in each of this traits is not self-evident at all. Each of them must, therefore, be carefully measured.
+2. _Superficial_* traits: The most glaring examples are race and gender. Religion, marital status, and tastes in general would also fall into this bucket. The case for "power" disparity in each of these traits is not self-evident at all. Each of them must, therefore, be carefully measured.
 
 `*` I couldn't think of a better name for this bucket. Please, bear with me.
 
