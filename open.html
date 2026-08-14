@@ -1,0 +1,6 @@
+<script>
+  const target = new URLSearchParams(location.search).get("u");
+  if (target) location.replace(target); // e.g. ?u=vscode://file/...
+</script>
+<a id="l">Open</a>
+<script>document.getElementById("l").href = new URLSearchParams(location.search).get("u");</script>
